@@ -1,1 +1,3 @@
-# project-2
+# project-2 
+Fraud-Detection-in-Credit-Card-Transactions-using-Machine-Learning-Techniques
+Classification of fraudulent credit card transactions. 
